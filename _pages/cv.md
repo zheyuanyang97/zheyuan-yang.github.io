@@ -36,8 +36,9 @@ Honors and Awards
 * Honors at Entrance with Admission Scholarships at CUHK, 2015-2019
 * Rank 100 (out of 570,000 examinees) in National College Entrance Examnation in Sichuan Province, 2015
 
-Teaching Assistance (During PhD)
+Teaching 
 ======
+As teaching assistants
 * IEMS5780 Building and Deploying Scalable Machine Learning Services, 1st Term, 2019-2020
 * IERG2051 Signals and Systems, IERG3050 Simulation and Statistical Analysis, 2020-2021
 * IERG4100 Wireless Communication Systems, IERG3320 Social Media and Human Information Interaction, 2021-2022
