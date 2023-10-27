@@ -34,23 +34,9 @@ Teaching
   
 Skills
 ======
-* Languages
-  * Mandarin
-  * English
-  * Cantonese
-  * German
-* Programming
-  * MATLAB
-  * Python
-  * C/C++ programming
-  * C# (undergrad course project)
-* Hobbies
-  * Literature
-  * Linguistics
-  * Yoga
-  * Ballet
-  * Photography
-  * Travelling (of course)
+* Languages: Mandarin, English, Cantonese, German
+* Programming: MATLAB, Python, C/C++ programming, C# (undergrad course project)
+* Hobbies: Literature, Linguistics, Yoga, Ballet, Photography, Travelling (ofc)
 
 Services
 ======
