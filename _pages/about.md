@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 
 I am working as a Postdoctoral Research Associate in Vodafone Chair, TU Dresden from Oct 2023. I received my PhD degree and  BEng degree (First Hon.) in Information Engineering from The Chinese University of Hong Kong (CUHK) in 2019 and 2023, respectively.
 
