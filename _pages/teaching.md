@@ -7,10 +7,13 @@ author_profile: true
 
 Teaching assistants in IE, CUHK
 ======
-* IEMS5780 Building and Deploying Scalable Machine Learning Services, 1st Term, 2019-2020
-* IERG2051 Signals and Systems, IERG3050 Simulation and Statistical Analysis, 2020-2021
-* IERG4100 Wireless Communication Systems, IERG3320 Social Media and Human Information Interaction, 2021-2022
-* IERG2080 Introduction to System Programming, IEMS5701 Wireless Communication, 2022-2023
+* IEMS5780 Building and Deploying Scalable Machine Learning Services, Term 1, 2019-2020
+* IERG2051 Signals and Systems, Term 1, 2020-2021
+* IERG3050 Simulation and Statistical Analysis, Term 2, 2020-2021
+* IERG4100 Wireless Communication Systems, Term 1, 2021-2022
+* IERG3320 Social Media and Human Information Interaction, 2021-2022
+* IERG2080 Introduction to System Programming, Term 1 2022-2023
+* IEMS5701 Wireless Communication, Term1, 2022-2023
          
   
 
