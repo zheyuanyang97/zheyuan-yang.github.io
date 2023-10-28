@@ -7,7 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 
 I am working as a Postdoctoral Research Associate in Vodafone Chair, TU Dresden from Oct 2023. I received my PhD degree and  BEng degree (First Hon.) in Information Engineering from The Chinese University of Hong Kong (CUHK) in 2019 and 2023, respectively.
 
@@ -38,7 +37,7 @@ Honors and Awards
 * Postgraduate Studentship at CUHK, 2019-2023
 * The Charles Kao Top Performance Awards (for the highest GPA in the major of studies), 2019
 * Final Year Project Awards, 2019
-* Dean's List (for top 10\% performance in each academic year), 2016-2019
+* Dean's List (for top 10% performance in each academic year), 2016-2019
 * Reaching Out Award (for exchange), 2017-2018
 * Honors at Entrance with Admission Scholarships at CUHK, 2015-2019
 * Rank Top 100 in National College Entrance Examnation in Sichuan Province, 2015
