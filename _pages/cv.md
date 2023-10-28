@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Zheyuan Yang's CV (2023 Oct)"
 permalink: /cv/
 author_profile: true
 redirect_from:
