@@ -13,7 +13,7 @@ name                     : &name "Dr. Zheyuan Yang"
 description              : &description "Postdoctoral Research Associate at TU Dresden"
 url                      : https://zheyuanyang97.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "zheyuan-yang.github.io"
+repository               : "zheyuanyang97.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -84,7 +84,7 @@ author:
   avatar           : "profile.jpeg"
   bio              : "Postdoctoral Research Associate at Vodafone Chair, TU Dresden"
   location         : "Dresden, Germany"
-  employer         : "https://www.vodafone-chair.org/team"
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=rrkehBsAAAAJ&hl=en&oi=ao"
   email            :
