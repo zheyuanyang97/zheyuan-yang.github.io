@@ -25,6 +25,21 @@ Honors and Awards
 * Reaching Out Award (for exchange), 2017-2018
 * Honors at Entrance with Admission Scholarships at CUHK, 2015-2019
 * Rank Top 100 in National College Entrance Examnation in Sichuan Province, 2015
+
+Scholarships from United College (UC), CUHK
+* College Head’s List (TOP 1 in major study among UC graduates), 2019
+* Tsang Shiu Tim Scholarships (42,100 HKD), 2019
+* Wong Chi Lam Scholarships (20,000 HKD), 2018
+* Wong Chi Lam Scholarships (10,000 HKD), 2017
+* United College GOAL Programme Scholarships (summer program in U Sydney, 3,500 HKD), 2016
+
+Scholarships from Faculty of Engineering, CUHK
+* Exchange Scholarships (30,000 HKD), 2018
+* Scholarships for European Innovation Academy (15,000 HKD), Turin, Italy, 2018
+* Summer Reseach Internship (10,000 HKD), Image Processing for Optical Communications, 2018
+* Summer Reseach Internship (10,000 HKD), Navigation aids for visual assistance, 2017
+* ELITE Stream Scholarships (8,000 HKD), 2016
+* Admission Scholarships (45,000 HKD), 2015 
          
 Skills
 ======
