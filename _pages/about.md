@@ -11,16 +11,6 @@ redirect_from:
 I am currently working as a Postdoctoral Research Associate at Vodafone Chair, TU Dresden since October 2023. I received my BEng degree (First Honours & Top 1 in major study) and PhD in Information Engineering (supervised by Prof. Ying-Jun Angela Zhang) from The Chinese University of Hong Kong in 2019 and 2023, respectively. From January to May 2018, I was an exchange student at University of Illinois Urbana-Champaign. During my last year of PhD study, I visited Prof. Bruno Clerckx's group at Imperial College London from January to May 2023.
 
 
-
-Education
-======
-* PhD in Information Engineering, The Chinese University of Hong Kong, 2023 (GPA: 3.84/4.0)
-* Visiting PhD student at EEE, Imperial College London, Jan to May 2023
-* Bachelor in Information Engineering (First Honours),The Chinese University of Hong Kong, 2019 (Major GPA: 3.97/4.0)
-* Exchange student at ECE, University of Illinois at Urbana-Champaign, Jan to May 2018 (Term GPA: 3.84/4.0)
-
-
-
 Publications
 ======
 Journals
@@ -36,22 +26,29 @@ Honours and Awards
 ======
 I am very grateful that CUHK has awarded me with more than 1.5 million HKD to support my undergraduate and PhD study. Without the generous financial aids, I would definitely not become who I am and know where to go. 
 During my early childhood, I lived in a remote mountain village without my biological parents but families of my foster mom. They are diligent and kind farmers, and they treated me well. Twenty years ago, there were no electricity and proper toilets in the village. We drew drinking water from wells. The road leading to the town was muddy and rugged, and I walked through a really long and difficult journey to where I am now. Tremendous thanks to the kind people and kindness in my life.
-* Postgraduate Studentship at CUHK (~18,000 per month), 2019-2023
-* The Charles Kao Top Performance Awards (for the highest GPA in the major of studies), 2019
-* Final Year Project Awards, 2019
+* Postgraduate Studentship at CUHK (~18,000 HKD per month), 2019-2023
+* The Charles Kao Top Performance Awards (for the highest GPA in the major of studies, 10,000 HKD), 2019
+* Final Year Project Awards (10,000 HKD), 2019
 * Dean's List (for top 10% performance in each academic year), 2016-2019
-* Reaching Out Award (for exchange), 2017-2018
+* Reaching Out Award + Yasumoto International Exchange Scholarships (for exchange, 10,000+15,000 HKD), 2017-2018
 * Honours at Entrance with Admission Scholarships at CUHK (120,000 HKD per year), 2015-2019
 * Rank Top 100 in National College Entrance Examnation in Sichuan Province, 2015
 
-Teaching 
-======
-As teaching assistants
-* IEMS5780 Building and Deploying Scalable Machine Learning Services, 1st Term, 2019-2020
-* IERG2051 Signals and Systems, IERG3050 Simulation and Statistical Analysis, 2020-2021
-* IERG4100 Wireless Communication Systems, IERG3320 Social Media and Human Information Interaction, 2021-2022
-* IERG2080 Introduction to System Programming, IEMS5701 Wireless Communication, 2022-2023
-         
+Scholarships from United College (UC), CUHK
+* College Head’s List (TOP 1 in major study among UC graduates), 2019
+* Tsang Shiu Tim Scholarships (42,100 HKD), 2019
+* Wong Chi Lam Scholarships (20,000 HKD), 2018
+* Wong Chi Lam Scholarships (10,000 HKD), 2017
+* United College GOAL Programme Scholarships (summer program in U Sydney, 3,500 HKD), 2016
+
+Scholarships from Faculty of Engineering, CUHK
+* Exchange Scholarships (30,000 HKD), 2018
+* Scholarships for European Innovation Academy (15,000 HKD), Turin, Italy, 2018
+* Summer Reseach Internship (10,000 HKD), Image Processing for Optical Communications, 2018
+* Summer Reseach Internship (10,000 HKD), Navigation aids for visual assistance, 2017
+* ELITE Stream Scholarships (8,000 HKD), 2016
+* Admission Scholarships (45,000 HKD), 2015 
+  
   
 Skills
 ======
