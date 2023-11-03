@@ -22,7 +22,7 @@ Conferences
 * (2021) Z. Yang, S. Bi and Y. -J. A. Zhang, "Dynamic Trajectory and Offloading Control of UAV-enabled MEC under User Mobility," 2021 IEEE International Conference on Communications Workshops (ICC Workshops)
 * (2021) Z. Yang, S. Bi and Y. -J. A. Zhang, "Stable Online Offloading and Trajectory Control for UAV-enabled MEC with EH Devices," 2021 IEEE Global Communications Conference (GLOBECOM)
   
-Honours and Awards
+Selected Honours and Awards
 ======
 I am very grateful that CUHK has awarded me with more than 1.5 million HKD to support my undergraduate and PhD study. Without the generous financial aids, I would definitely not become who I am and know where to go. 
 During my early childhood, I lived in a remote mountain village without my biological parents but families of my foster mom. They are diligent and kind farmers, and they treated me well. Twenty years ago, there were no electricity and proper toilets in the village. We drew drinking water from wells. The road leading to the town was muddy and rugged, and I walked through a really long and difficult journey to where I am now. Tremendous thanks to the kind people and kindness in my life.
@@ -34,20 +34,6 @@ During my early childhood, I lived in a remote mountain village without my biolo
 * Honours at Entrance with Admission Scholarships at CUHK (120,000 HKD per year), 2015-2019
 * Rank Top 100 in National College Entrance Examnation in Sichuan Province, 2015
 
-Scholarships from United College (UC), CUHK
-* College Head’s List (TOP 1 in major study among UC graduates), 2019
-* Tsang Shiu Tim Scholarships (42,100 HKD), 2019
-* Wong Chi Lam Scholarships (20,000 HKD), 2018
-* Wong Chi Lam Scholarships (10,000 HKD), 2017
-* United College GOAL Programme Scholarships (summer program in U Sydney, 3,500 HKD), 2016
-
-Scholarships from Faculty of Engineering, CUHK
-* Exchange Scholarships (30,000 HKD), 2018
-* Scholarships for European Innovation Academy (15,000 HKD), Turin, Italy, 2018
-* Summer Reseach Internship (10,000 HKD), Image Processing for Optical Communications, 2018
-* Summer Reseach Internship (10,000 HKD), Navigation aids for visual assistance, 2017
-* ELITE Stream Scholarships (8,000 HKD), 2016
-* Admission Scholarships (45,000 HKD), 2015 
   
   
 Skills
